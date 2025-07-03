@@ -41,7 +41,8 @@ When I'm not coding, I'm helping family members save money on their taxes - I've
 - **Rapid System Adaptation:** Quickly learned and applied various software systems and processes across retail and educational roles. This experience, including exposure to banking operations, has broadened my understanding of different industry workflows
 
 ## 🌱 Current Projects
-- ✅ **Digital Clock Project:** [Live Demo](https://john-keppe.github.io/Digital-Clock-Project/)
+- ✅ **Digital Clock Project:** [Live Demo](https://john-keppe.github.io/Digital-Clock-Project/) | [Project Link](https://github.com/john-keppe/Digital-Clock-Project)
+
 - 🌐 **Personal Website:** Developing a Neocities site with custom Bootstrap resume template
   - *Resume template adapted from "Resume" by [Start Bootstrap](https://startbootstrap.com/theme/resume)*
 - 📚 **Learning Portfolio:** Documenting my coding journey and projects on GitHub
