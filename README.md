@@ -3,9 +3,6 @@
 ## 🚀 About Me
 I'm currently transitioning into the tech industry, drawing on valuable experience gained in administrative and retail roles. My background has equipped me with strong problem-solving skills, meticulous attention to detail, and a customer-focused mindset. I am excited to apply these strengths and explore various opportunities within the tech landscape to discover where I can make the most impact.
 
-> 🖼️ *Note:* The profile image shown is AI-generated to reflect my professional identity and aesthetic. It resembles me and fits the tone of my digital presence.
-
-
 ## 💭 My Coding Philosophy
 *"The best way to learn programming is to write programs."*
 
