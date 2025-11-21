@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm John Keppe
 
-<!--
-**john-keppe/john-keppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Welcome to my GitHub profile! ✨  
+I’m an administrative professional exploring creative web development and digital tools to reimagine administrative work.
 
-Here are some ideas to get you started:
+## 🚀 What I’m Working On
+- Building a retro‑modern themed portfolio site with charts, graphs, and dark mode
+- Exploring workflow automation and AI literacy
+- Blending administrative reliability with digital creativity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Office support, records management, scheduling, client service
+- Microsoft Office, Google Workspace, QuickBooks POS, Jenzabar SIS
+- HTML5, CSS3, JavaScript, Markdown, GitHub Pages
+- Workflow automation (Zapier, Notion, Trello)
+- AI tools (Copilot, Gemini, Claude)
+
+## 🌐 Portfolio
+Check out my live portfolio:  
+👉 [john-keppe.github.io/portfolio](https://john-keppe.github.io/portfolio)
+
+## 📫 Contact
+- Email: **johnnykeppe@zohomail.com**
+- Phone: **(304) 712‑9855**
+
+---
+
+Thanks for stopping by — I’m excited to keep learning, building, and sharing!
