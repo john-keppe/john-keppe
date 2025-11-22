@@ -1,4 +1,4 @@
-# 👋 Hi, I'm John Keppe
+# 👋 Hi, I'm Johnny Keppe
 
 ✨ Welcome to my GitHub profile! ✨  
 I’m an administrative professional exploring creative web development and digital tools to reimagine administrative work.
